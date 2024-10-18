@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ws101-zoleta-navbar/static/css/main.385d6f04.css",
+    "main.js": "/ws101-zoleta-navbar/static/js/main.fc01300c.js",
+    "static/js/453.430cf63b.chunk.js": "/ws101-zoleta-navbar/static/js/453.430cf63b.chunk.js",
+    "static/media/joker.jpg": "/ws101-zoleta-navbar/static/media/joker.1eebb6b7a91a4eda1fef.jpg",
+    "index.html": "/ws101-zoleta-navbar/index.html",
+    "main.385d6f04.css.map": "/ws101-zoleta-navbar/static/css/main.385d6f04.css.map",
+    "main.fc01300c.js.map": "/ws101-zoleta-navbar/static/js/main.fc01300c.js.map",
+    "453.430cf63b.chunk.js.map": "/ws101-zoleta-navbar/static/js/453.430cf63b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.385d6f04.css",
+    "static/js/main.fc01300c.js"
+  ]
+}
